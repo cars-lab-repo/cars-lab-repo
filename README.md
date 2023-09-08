@@ -10,7 +10,11 @@ At [CARS-Lab](http://aminrezaei.com/cars-lab) -based on Edsger Dijkstra's great 
 
 **Amin Rezaei**
 
-<a href="https://www.linkedin.com/in/amin-rezaei" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> <a href="https://github.com/r3zaei" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
+<a href="https://www.linkedin.com/in/amin-rezaei" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> 
+<a href="https://github.com/r3zaei" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
+<a href="https://www.researchgate.net/profile/Amin-Rezaei-2" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""/></a>
+<a href="https://scholar.google.com/citations?user=rT9gUUAAAAAJ&hl=" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt=""/></a>
+
 
 -----
 
@@ -19,10 +23,14 @@ At [CARS-Lab](http://aminrezaei.com/cars-lab) -based on Edsger Dijkstra's great 
 **Rahul Vishwakarma** 
 
 <a href="https://www.linkedin.com/in/rahulvishwakarma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> <a href="https://github.com/rahvis" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
+<a href="https://www.researchgate.net/profile/Rahul-Vishwakarma-26" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""/></a>
+<a href="https://scholar.google.com/citations?user=F2eTslkAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt=""/></a>
 
 **Jordan Maynard** 
 
 <a href="https://www.linkedin.com/in/jordan-maynard-26761a202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> <a href="https://github.com/j0rban" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
+<a href="https://www.researchgate.net/profile/Jordan-Maynard-2" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""/></a>
+<a href="https://scholar.google.com/citations?hl=en&user=fz5genIAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt=""/></a>
 
 <!--
 **cars-lab-repo/cars-lab-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
