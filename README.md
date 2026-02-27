@@ -62,7 +62,7 @@ At [CARS-Lab](http://aminrezaei.com/cars-lab) -based on Edsger Dijkstra's great 
 <a href="https://www.researchgate.net/profile/Yazan-Baddour" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""/></a>
 <a href="https://scholar.google.com/citations?hl=en&user=c_5qFNkAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt=""/></a>
 
-**Hugo Ledirach** 
+**Hugo Le Dirach** 
 
 <a href="https://www.linkedin.com/in/hugo-le-dirach-8a028a205/ " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> 
 <a href="https://github.com/Petitnuagedk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
