@@ -24,57 +24,41 @@ At [CARS-Lab](http://aminrezaei.com/cars-lab) -based on Edsger Dijkstra's great 
 
 <a href="https://www.linkedin.com/in/rahulvishwakarma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> 
 <a href="https://github.com/rahvis" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
-<a href="https://www.researchgate.net/profile/Rahul-Vishwakarma-26" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""/></a>
-<a href="https://scholar.google.com/citations?user=F2eTslkAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt=""/></a>
 
 **Jordan Maynard** 
 
 <a href="https://www.linkedin.com/in/jordan-maynard-26761a202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> 
 <a href="https://github.com/j0rban" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
-<a href="https://www.researchgate.net/profile/Jordan-Maynard-2" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""/></a>
-<a href="https://scholar.google.com/citations?hl=en&user=fz5genIAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt=""/></a>
 
 **Yeganeh Aghamohammadi** 
 
 <a href="https://www.linkedin.com/in/yeganeh-aghamohammadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> 
 <a href="https://github.com/yegane-ai" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
-<a href="https://www.researchgate.net/profile/Yegane-Aghamohammadi" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""/></a>
-<a href="https://scholar.google.com/citations?hl=en&user=3Xnzk-IAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt=""/></a>
 
 **Michael Dominguez** 
 
 <a href="https://www.linkedin.com/in/michael-dominguez-683097254/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> 
 <a href="https://github.com/M-A-D-007" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
-<a href="https://www.researchgate.net/profile/Michael-Dominguez-5" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""/></a>
-<a href="https://scholar.google.com/citations?hl=en&user=WD7dFaEAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt=""/></a>
 
 **Kevin Lopez** 
 
 <a href="https://www.linkedin.com/in/kevindlopez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> 
 <a href="https://github.com/KevinDLopez" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
-<a href="https://www.researchgate.net/profile/Kevin-Lopez-Chavez" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""/></a>
-<a href="https://scholar.google.com/citations?hl=en&user=inW5Nr8AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt=""/></a>
 
 **Yazan Baddour** 
 
 <a href="https://www.linkedin.com/in/yazanbaddour/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> 
 <a href="https://github.com/YazanBaddour" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
-<a href="https://www.researchgate.net/profile/Yazan-Baddour" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""/></a>
-<a href="https://scholar.google.com/citations?hl=en&user=c_5qFNkAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt=""/></a>
 
 **Hugo Le Dirach** 
 
 <a href="https://www.linkedin.com/in/hugo-le-dirach-8a028a205/ " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> 
 <a href="https://github.com/Petitnuagedk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
-<a href="https://www.researchgate.net/profile/Hugo-Le-Dirach" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""/></a>
-<a href="https://scholar.google.com/citations?hl=fr&user=i1R957AAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt=""/></a>
 
 **Shrey Modi** 
 
 <a href="https://www.linkedin.com/in/shreymodi7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> 
 <a href="https://github.com/shrey1608" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""/></a>
-<a href="https://scholar.google.com/citations?user=mfmrJUYAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt=""/></a>
 
 <!--
 **cars-lab-repo/cars-lab-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
