@@ -60,6 +60,11 @@ At [CARS-Lab](http://aminrezaei.com/cars-lab) -based on Edsger Dijkstra's great 
 <a href="https://www.linkedin.com/in/shreymodi7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> 
 <a href="https://github.com/shrey1608" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
 
+**Marissa Marcarelli** 
+
+<a href="https://www.linkedin.com/in/marissa-marcarelli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> 
+<a href="https://github.com/m-marcarelli" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
+
 <!--
 **cars-lab-repo/cars-lab-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
