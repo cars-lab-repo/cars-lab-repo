@@ -14,7 +14,8 @@ At [CARS-Lab](http://aminrezaei.com/cars-lab) -based on Edsger Dijkstra's great 
 <a href="https://github.com/r3zaei" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
 <a href="https://www.researchgate.net/profile/Amin-Rezaei-2" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""/></a>
 <a href="https://scholar.google.com/citations?user=rT9gUUAAAAAJ&hl" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt=""/></a>
-<a href="https://dblp.org/pid/151/8281.html" target="_blank"><img src="https://img.shields.io/badge/-dblp-B8860B?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="dblp"/></a>
+<a href="https://dblp.org/pid/151/8281.html" target="_blank"><img src="https://img.shields.io/badge/-dblp-B8860B?style=for-the-badge&logo=read-the-docs&logoColor=white" alt=""/></a>
+<a href="https://www.semanticscholar.org/author/Amin-Rezaei/25523872"><img src="https://img.shields.io/badge/-Semantic%20Scholar-222C40?style=for-the-badge&logo=semanticscholar&logoColor=white" alt=""/></a>
 
 
 -----
