@@ -11,7 +11,7 @@ At [CARS-Lab](http://aminrezaei.com/cars-lab) -based on Edsger Dijkstra's great 
 **Amin Rezaei**
 
 <a href="https://www.linkedin.com/in/amin-rezaei" target="_blank">Link</a> 
-<a href="https://github.com/r3zaei" target="_blank">Link></a>
+<a href="https://github.com/r3zaei" target="_blank">Link</a>
 
 -----
 
